@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.1.11/svn/mopaas"
+   name=""
+   revision="660"
+   last-author="ylhuang"
+   url="http://192.168.1.11/svn/mopaas/phppgadmin/themes"
+   uuid="bcb0d319-57e5-4820-bb18-6014721b9c2f"
+   committed-rev="361"
+   kind="dir"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="cappuccino"
+   kind="dir"/>
+<entry
+   name="default"
+   kind="dir"/>
+<entry
+   name="global.css"
+   checksum="0c5e16a8debe4c93843cac8919ae6f7c"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="gotar"
+   kind="dir"/>
+<entry
+   name="themes.php"
+   checksum="4b4d0ad63cb911472e7f7805622a495a"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+</wc-entries>

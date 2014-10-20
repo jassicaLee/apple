@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.1.11/svn/mopaas"
+   name=""
+   revision="660"
+   last-author="ylhuang"
+   url="http://192.168.1.11/svn/mopaas/phppgadmin/lang/recoded"
+   uuid="bcb0d319-57e5-4820-bb18-6014721b9c2f"
+   committed-rev="361"
+   kind="dir"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="README"
+   checksum="1e70698d12755274be35a39667782219"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="afrikaans.php"
+   checksum="54eb34b1a22aa017e252025af4f9a9c6"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="arabic.php"
+   checksum="803ab9ee4c4199e77328500aa221ddcc"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="catalan.php"
+   checksum="a6e464145af5470646d1a45f33df31b1"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="chinese-sim.php"
+   checksum="52765f3e5020b9b771db51a4d9342836"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="chinese-tr.php"
+   checksum="59e57a5939c70ca4b917c9b5d2f114a3"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="chinese-utf8-zh_CN.php"
+   checksum="dd62882456638f04105550aa20da232e"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="chinese-utf8-zh_TW.php"
+   checksum="4802fae9bf87da16c474e5e588c3a774"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="czech.php"
+   checksum="8e7dee9b555d7a22c8a75d8923423218"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="danish.php"
+   checksum="b813e7575c323493997de95926575921"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="dutch.php"
+   checksum="af3c67942589fe1c6a22bce6a3b12751"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="english.php"
+   checksum="0ef0a16eec7c8211951461e054a72739"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="french.php"
+   checksum="b61ffbe93a16b0b6163b0201f00e788c"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="galician.php"
+   checksum="1eff912b4b0f55e791636dff940b631a"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="german.php"
+   checksum="326d37eeac47942495c407a5ad30effd"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="greek.php"
+   checksum="0e34d9776c3e25d13846ba64276f58a1"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="hebrew.php"
+   checksum="a57752d25b974051496ebef85c37670a"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="hungarian.php"
+   checksum="aee24f00fa5ead600c6ebf1b85f3f83e"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="italian.php"
+   checksum="df4d7659cf9a4a1025158280bf20d02d"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="japanese.php"
+   checksum="399ccbe7b8f3cfb234f9eb65ca024d86"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="mongol.php"
+   checksum="e897e012eecd506301ff4adae23f390a"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="polish.php"
+   checksum="3e757b0bfbac7acdc93b1af80c61c060"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="portuguese-br.php"
+   checksum="37be3c6253eb3651defbcbceea9cdb1d"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="portuguese-pt.php"
+   checksum="4d3c653ef8d2f7a50827c1eb0a6a7592"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="romanian.php"
+   checksum="e62fcb43b51804f9937d07bc76635921"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="russian-utf8.php"
+   checksum="45517169673aee61ee048812608ad6fe"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="russian.php"
+   checksum="a990676d3aeef1393592cc1ebcfb0ee1"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="slovak.php"
+   checksum="bc01a2dc464cf7fb8d9ee5f5fa9c1490"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="spanish.php"
+   checksum="f0766b89851e10b47aff0b43fd400fab"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="swedish.php"
+   checksum="8831df2098386ebdf2553f6e8ad88120"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="turkish.php"
+   checksum="df08f63f47d44dcec42140b5440dff80"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="ukrainian.php"
+   checksum="e7a6f9dfac5da6096c0744e1ea55109c"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+</wc-entries>

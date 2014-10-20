@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.1.11/svn/mopaas"
+   name=""
+   revision="660"
+   last-author="ylhuang"
+   url="http://192.168.1.11/svn/mopaas/phppgadmin/libraries/adodb"
+   uuid="bcb0d319-57e5-4820-bb18-6014721b9c2f"
+   committed-rev="361"
+   kind="dir"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-csvlib.inc.php"
+   checksum="db96167213233bcd01081742a7f84f92"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-datadict.inc.php"
+   checksum="ab5c09d857a109261f2ff160602240fb"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-error.inc.php"
+   checksum="e76c52524f38c42f9c6fe8fc16e4c7a7"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-iterator.inc.php"
+   checksum="360456539eabb9bbd08622829df546a7"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-lib.inc.php"
+   checksum="7e3134038851eac3fd9153835f59dfe2"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-time.inc.php"
+   checksum="2ef85aecdab2c9479fb0726fd54c5c7a"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb.inc.php"
+   checksum="a18bee750fd16622b43b2f8da44f8b11"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="drivers"
+   kind="dir"/>
+<entry
+   name="lang"
+   kind="dir"/>
+<entry
+   name="license.txt"
+   checksum="8bd77614212dddcfe8ef04c95fbd92e6"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="readme.txt"
+   checksum="856de932c83745af0a66cd21d6d1abbf"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="toexport.inc.php"
+   checksum="3514b11651b24c2a444cf829c13c848e"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="tohtml.inc.php"
+   checksum="f6967c4a18db47ea938c71e279170a0c"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+</wc-entries>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.1.11/svn/mopaas"
+   name=""
+   revision="660"
+   last-author="ylhuang"
+   url="http://192.168.1.11/svn/mopaas/phppgadmin/themes/default"
+   uuid="bcb0d319-57e5-4820-bb18-6014721b9c2f"
+   committed-rev="361"
+   kind="dir"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="global.css"
+   checksum="d1d17f12cde4bc02b190d95b8fe70643"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+</wc-entries>

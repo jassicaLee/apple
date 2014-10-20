@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.1.11/svn/mopaas"
+   name=""
+   revision="660"
+   last-author="ylhuang"
+   url="http://192.168.1.11/svn/mopaas/phppgadmin/libraries/adodb/lang"
+   uuid="bcb0d319-57e5-4820-bb18-6014721b9c2f"
+   committed-rev="361"
+   kind="dir"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-ar.inc.php"
+   checksum="56602de7a184aa22984f46954b22934b"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-bg.inc.php"
+   checksum="37b0880076545e8d8e3809002c8b1960"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-bgutf8.inc.php"
+   checksum="ed08fdc9f392628cf2bf5eb9c814eb6a"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-ca.inc.php"
+   checksum="b9030fa70d9d0f2ba408ac61c31958c3"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-cn.inc.php"
+   checksum="155efb4dceeced3de044f660a9528265"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-cz.inc.php"
+   checksum="6964322c13c74d4435a42c3d14ab7d6a"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-da.inc.php"
+   checksum="2ea23878b1027f3d07c8a9b8bbe4e3a3"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-de.inc.php"
+   checksum="26c57777b17e3ff924b83d3ac36a6e1c"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-en.inc.php"
+   checksum="c5420bb506f4eae64a6f84e33bb31523"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-es.inc.php"
+   checksum="de0722a45173d1e076216f41090232d1"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-esperanto.inc.php"
+   checksum="32b94a998cb1a8b1ee14089af407d585"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-fa.inc.php"
+   checksum="32dd4402ea6055f588cc4c999f1dd21f"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-fr.inc.php"
+   checksum="dd47dbd2afc066b15e4944297da957b2"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-hu.inc.php"
+   checksum="f308d107e1335ec36f71f101bc5324cf"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-it.inc.php"
+   checksum="15e2c634116779844db3c9e8f1c4ceb0"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-nl.inc.php"
+   checksum="ed3d417b04f361e178f1a258d193b929"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-pl.inc.php"
+   checksum="8a53c82baf19cf137ef125d7e410c647"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-pt-br.inc.php"
+   checksum="14cc56d6565900543e3b26130aace1b7"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-ro.inc.php"
+   checksum="71052ad0e1622d8514b5a41622d2ce33"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-ru1251.inc.php"
+   checksum="e828ddb6371ea135bfff0d6b59229eb3"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-sv.inc.php"
+   checksum="81fac3276333ca136f83c1f3c35f5f3f"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb-uk1251.inc.php"
+   checksum="822a0c4c44527e99acdb3bc2f50ff6f1"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+<entry
+   name="adodb_th.inc.php"
+   checksum="201d8ae7eda2a23f6b71c9d88ac77ded"
+   last-author="ylhuang"
+   committed-rev="361"
+   text-time="2012-09-10T07:26:51.000000Z"
+   kind="file"
+   committed-date="2012-09-10T07:26:51.022857Z"/>
+</wc-entries>
